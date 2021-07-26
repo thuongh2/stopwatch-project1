@@ -4,9 +4,12 @@
   font-family: Helvetica,Arial,  sans-serif;
 }
 
-@media (max-width: 800px) {
+@media screen and (max-width: 800px) {
   p{
     margin: 0 -8px;
+  }
+  .row{
+    margin: 0 -7px !important;
   }
 }
 
