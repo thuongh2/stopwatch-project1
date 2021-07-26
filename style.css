@@ -4,6 +4,12 @@
   font-family: Helvetica,Arial,  sans-serif;
 }
 
+@media (max-width: 800px) {
+  p{
+    margin: 0 -8px;
+  }
+}
+
 .row {
   display: inline;
   font-size: 60px;
